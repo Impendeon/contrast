@@ -1,4 +1,4 @@
-title: "Blog Title"
+title: "Alex Farra"
 author: "Alex Farra"
 description: "Really cool blog about ... something"
 more: "read more »"
@@ -10,7 +10,7 @@ excerpt_separator: "\n\n\n" # two blank lines
 
 style:
   minimalist: false
-  dark: false
+  dark: true
 
 navigation:
   - index.html
