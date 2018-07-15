@@ -2,8 +2,8 @@ title: "Blog Title"
 author: "Alex Farra"
 description: "Really cool blog about ... something"
 more: "read more »"
-url: "https://impendeon.github.io/"
-baseurl: "/contrast"
+url: "https://alexfarra.github.io/"
+baseurl: "/"
 paginate: 2
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
@@ -18,7 +18,7 @@ navigation:
   - about.md
 
 comments:
-  disqus: "disqus-contrast"
+  #disqus: "disqus-contrast"
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
